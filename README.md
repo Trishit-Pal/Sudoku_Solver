@@ -1,5 +1,6 @@
 # Sudoku_Solver
-This is a simple Sudoku Solving game where the Sudoku is input  in the code. The core code is based upon Backtracking algorithm while it is modified for GUI using Pygame 
+
+This is a simple Sudoku Solving game where the Sudoku is randomly generated using Dokuson Module depending upon the difficulty level chosen by the user . The core code is based upon Backtracking algorithm while it is modified for GUI using Pygame 
 
 
 In a sudoku board, there is a 9x9 grid which are split into 9, 3x3 squares. Your objective is to fill in the grid so that every row, column and individual grid has the numbers 1–9 going through it. This means each column, row and 3x3 grid aren’t allowed to have repeated numbers in them.
